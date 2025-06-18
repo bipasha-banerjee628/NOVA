@@ -1,37 +1,36 @@
 # NOVA
 
-# 🌌 NOVA – Next-Gen Optimized Virtual Assistant
+# 🌟 NOVA – Personal AI Assistant
 
-![NOVA Logo](https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square)
-![Built with LLaMA 2](https://img.shields.io/badge/LLaMA%202-Backend-blue)
-![Open Source](https://img.shields.io/badge/Open--Source-Yes-brightgreen)
-
-**NOVA** (Next-Gen Optimized Virtual Assistant) is a powerful, customizable, AI-based personal assistant designed to help you automate tasks, interact naturally using voice, and explore the capabilities of open-source AI—all with no cost.
+**NOVA** (Next-Gen Optimized Virtual Assistant) is a smart, voice-controlled AI assistant built using open-source tools like **LLaMA 2** and **face recognition**. It helps automate tasks, answer questions, and respond using natural language.
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- 🔒 **Face Authentication** – Secure access using your face.
-- 🗣️ **Voice Commands** – Control your assistant hands-free.
-- 🧠 **LLaMA 2 Powered** – Uses Meta’s open-source LLM to understand and respond.
-- 🌐 **Internet Automation** – Search the web, get news, weather, and more.
-- 🔊 **Text-to-Speech** – Speaks back with natural responses.
-- 🖼️ **Integrates with Image AI (Optional)** – Use with your *Pure Vision* image generator.
-- 🎵 **Play Music / Open Apps** – Personal entertainment & utility.
+- 🔐 Face Authentication  
+- 🗣️ Voice Commands  
+- 🧠 LLaMA 2 for AI replies  
+- 🌐 Web search, weather, news  
+- 🔊 Text-to-speech responses  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
-- **Python**
-- **LLaMA 2** (via Hugging Face or local setup)
-- **OpenCV & face_recognition** – for face-based login
-- **pyttsx3 / gTTS** – for text-to-speech
-- **speech_recognition** – for understanding voice
-- **APIs** – OpenWeatherMap, NewsAPI, etc.
+- Python  
+- LLaMA 2  
+- OpenCV & face_recognition  
+- pyttsx3, speech_recognition  
+- Free APIs (Weather, News, etc.)
 
 ---
 
-## 📁 Folder Structure (Example)
+## 👩‍💻 Developer
 
+**Bipasha Banerjee**  
+GitHub: [@bipasha-banerjee628](https://github.com/bipasha-banerjee628)
+
+---
+
+> “Built to assist. Designed to grow.” 🌌
